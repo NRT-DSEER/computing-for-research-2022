@@ -18,7 +18,7 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 
 - Sophia Horigan, she/her, 4th year PhD Candidate in Ecology and Evolution, Biological Sciences Division
 - Samantha Lapp
-- Haynes Stephens
+- Haynes Stephens, he/him, PhD in Atmospheric Sciences, Department of Geophisical Sciences
 
 ### Teaching Assistants:
 Contact over slack or attend office hours -- do we have a link yet?
