@@ -27,7 +27,7 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 Contact over slack or attend office hours (the final 30 minutes of each day, over zoom or in person)
 
 - Megan Barnett, she/her, PhD in Geophysical Sciences
-- Prayut Jain, MS 
+- Prayut Jain, he/him, MS in Analytics, Physical Sciences Division
 - Brinda Sapra, she/her, MS in Computational Analysis and Public Policy, Department of Computer Science and Harris School of Public Policy
 - Kabir Dubey, he/him, BS in Math & Minor in Computer Science, Department of Mathematics & Department of Computer Science
 
