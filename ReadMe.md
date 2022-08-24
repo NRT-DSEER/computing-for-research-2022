@@ -26,6 +26,7 @@ Contact over slack or attend office hours -- do we have a link yet?
 - Megan Barnett, she/her, PhD in Geophysical Sciences
 - Prayut Jain, MS 
 - Brinda Sapra, she/her, MS in Computational Analysis and Public Policy, Department of Computer Science and Harris School of Public Policy
+- Kabir Dubey, he/him, BS in Math & Minor in Computer Science, Department of Mathematics & Department of Computer Science
 
 ### Class Time:
 - Aug 29-Sept 9
