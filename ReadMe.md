@@ -23,8 +23,9 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 ### Teaching Assistants:
 Contact over slack or attend office hours -- do we have a link yet?
 
-- Megan Barnett, she/her, 5th year PhD in Geophysical Sciences
+- Megan Barnett, she/her, PhD in Geophysical Sciences
 - Prayut Jain, MS 
+- Brinda Sapra, she/her, MS in Computational Analysis and Public Policy, Department of Computer Science and Harris School of Public Policy
 
 ### Class Time:
 - Aug 29-Sept 9
