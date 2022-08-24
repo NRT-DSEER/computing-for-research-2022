@@ -12,7 +12,7 @@ This repo houses data and notebooks for the 2022 DSEER "Computing for Research" 
 3) Make a github account [here](http://github.com)
 4) If you use Windows, get yourself a console emulator like cmder or conemu. Alternatively, you can do this all on RCC login nodes if you prefer. Another alternative is installing a windows subsystem for linux, which may sound like overkill now but is really beneficial in the long run.
 
-Please ping the slack if you have any issues! It's preferred we take care of them before class starts to keep everyone on track.
+Please ping the slack if you have any issues! We will have some time to spend on the first day troubleshooting, but if you can get a jump on solving the problem that's preferred.
 
 # Syllabus
 
