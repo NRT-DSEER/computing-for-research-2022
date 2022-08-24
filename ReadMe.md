@@ -10,6 +10,7 @@ This repo houses data and notebooks for the 2022 DSEER "Computing for Research" 
             _Version control with git:_ http://swcarpentry.github.io/git-novice/
 2) If you don't already have a preffered text editor, install the free version of BBEdit [here](https://www.barebones.com/products/bbedit/). If you already use a text editor you are familiar with, you can skip this step.
 3) Make a github account [here](http://github.com)
+4) If you use Windows, get yourself a console emulator like cmder or conemu. Alternatively, you can do this all on RCC login nodes if you prefer. Another alternative is installing a windows subsystem for linux, which may sound like overkill now but is really beneficial in the long run.
 
 # Syllabus
 
