@@ -21,7 +21,7 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 - Haynes Stephens, he/him, PhD in Atmospheric Sciences, Department of Geophisical Sciences
 
 ### Teaching Assistants:
-Contact over slack or attend office hours -- do we have a link yet?
+Contact over slack or attend office hours (the final 30 minutes of each day, over zoom or in person)
 
 - Megan Barnett, she/her, PhD in Geophysical Sciences
 - Prayut Jain, MS 
@@ -36,7 +36,8 @@ Contact over slack or attend office hours -- do we have a link yet?
 -You will receive an email with the zoom link for class.
 
 ### How to ask for help:
-- Slack! TA's are ready 
+- In-person: raise your hand, floating TA's will come around the room
+- In-person or over zoom: slack
 
 ### Recordings:
 The folder for the recordings will be posted over Slack or sent over email. We will add each day's recordings a few hours after classtime.
