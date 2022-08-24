@@ -23,7 +23,7 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 ### Teaching Assistants:
 Contact over slack or attend office hours -- do we have a link yet?
 
-- Megan Barnett, PhD in Geophysical Sciences
+- Megan Barnett, she/her, 5th year PhD in Geophysical Sciences
 - Prayut Jain, MS 
 
 ### Class Time:
