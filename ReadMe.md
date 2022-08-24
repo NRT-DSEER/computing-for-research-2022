@@ -9,7 +9,7 @@ This repo houses data and notebooks for the 2022 DSEER "Computing for Research" 
             _Unix shell/command line:_ http://swcarpentry.github.io/shell-novice/
             _Version control with git:_ http://swcarpentry.github.io/git-novice/
 2) If you don't already have a preffered text editor, install the free version of BBEdit [here](https://www.barebones.com/products/bbedit/). If you already use a text editor you are familiar with, you can skip this step.
-
+3) Make a github account [here](http://github.com)
 
 # Syllabus
 
