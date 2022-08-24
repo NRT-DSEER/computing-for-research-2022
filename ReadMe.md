@@ -16,7 +16,7 @@ This repo houses data and notebooks for the 2022 DSEER "Computing for Research" 
 ### Instructors:
 All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack.
 
-- Sophia Horigan, PhD in Ecology and Evolution
+- Sophia Horigan, she/her, 4th year PhD Candidate in Ecology and Evolution, Biological Sciences Division
 - Samantha Lapp
 - Haynes Stephens
 
