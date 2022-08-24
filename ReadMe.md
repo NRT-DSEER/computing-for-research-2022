@@ -12,10 +12,12 @@ This repo houses data and notebooks for the 2022 DSEER "Computing for Research" 
 3) Make a github account [here](http://github.com)
 4) If you use Windows, get yourself a console emulator like cmder or conemu. Alternatively, you can do this all on RCC login nodes if you prefer. Another alternative is installing a windows subsystem for linux, which may sound like overkill now but is really beneficial in the long run.
 
+Please ping the slack if you have any issues! It's preferred we take care of them before class starts to keep everyone on track.
+
 # Syllabus
 
 ### Instructors:
-All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack.
+All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack. [This video](https://www.youtube.com/watch?v=Xm790AkFeK4&ab_channel=TraversyMedia) and others like it may be helpful.
 
 - Sophia Horigan, she/her, 4th year PhD Candidate in Ecology and Evolution, Biological Sciences Division
 - Samantha Lapp
