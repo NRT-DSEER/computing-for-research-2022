@@ -81,9 +81,17 @@ The folder for the recordings will be posted over Slack or sent over email. We w
 
 ## Day 5: 
 
-## Day 6:
+## Day 6: RCC
+- What is a computing cluster?
+- Overview of UChicago's computing resources
+- How to connect to Midway
+- Using Midway for research
 
-## Day 7:
+## Day 7: Git & Github
+- What is version control, and why use it?
+- Introduction to basic Git
+- Introduction to Github
+- Using Git & Github for research
 
 ## Optional: Machine Learning (9/15)
 - Introduction to Random Forests
