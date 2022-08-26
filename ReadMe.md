@@ -14,6 +14,25 @@ This repo houses data and notebooks for the 2022 DSEER "Computing for Research" 
 
 Please ping the slack if you have any issues! We will have some time to spend on the first day troubleshooting, but if you can get a jump on solving the problem that's preferred.
 
+# Daily Github Pull
+
+Each day we will pull the most recent version of the daily jupyter notebook from this central Github location. Don't get ahead of yourself -- we're tired overworked grad students and will likely be uploading the final version the night before or morning of class. So we'll perform this pull every day together.
+
+### First day
+1) open terminal or other application for the bash/zsh command line 
+2) `cd` into the directory you want your bootcamp materials to live in
+3) `git clone https://github.com/NRT-DSEER/computing-for-research-2022.git`
+4) `cd computing-for-research-2022.git`
+5) `cd notebooks`
+6) `jupyter notebook`
+
+### Subsequent days
+1) open terminal
+2) move into bootcamp directory
+3) `git pull`
+4) `cd notebooks`
+5) `jupyter notebook`
+
 # Syllabus
 
 ### Instructors:
