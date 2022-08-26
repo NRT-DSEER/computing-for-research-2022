@@ -38,9 +38,6 @@ Contact over slack or attend office hours (the final 30 minutes of each day, ove
 
 -You will receive an email with the zoom link for class.
 
-### How to ask for help:
-- In-person: raise your hand, floating TA's will come around the room
-- In-person or over zoom: slack
 
 ### Recordings:
 The folder for the recordings will be posted over Slack or sent over email. We will add each day's recordings a few hours after classtime.
