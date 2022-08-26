@@ -22,7 +22,7 @@ Each day we will pull the most recent version of the daily jupyter notebook from
 1) open terminal or other application for the bash/zsh command line 
 2) `cd` into the directory you want your bootcamp materials to live in
 3) `git clone https://github.com/NRT-DSEER/computing-for-research-2022.git`
-4) `cd computing-for-research-2022.git`
+4) `cd computing-for-research-2022`
 5) `cd notebooks`
 6) `jupyter notebook`
 
@@ -39,8 +39,8 @@ Each day we will pull the most recent version of the daily jupyter notebook from
 All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack. [This video](https://www.youtube.com/watch?v=Xm790AkFeK4&ab_channel=TraversyMedia) and others like it may be helpful.
 
 - Sophia Horigan, she/her, 4th year PhD Candidate in Ecology and Evolution, Biological Sciences Division
-- Samantha Lapp
-- Haynes Stephens, he/him, PhD in Atmospheric Sciences, Department of Geophisical Sciences
+- Samantha Lapp, she/her, 4th year PhD Candidate in Physics, Department of Physics + Department of Geophysical Sciences
+- Haynes Stephens, he/him, PhD in Atmospheric Sciences, Department of Geophysical Sciences
 
 ### Teaching Assistants:
 Contact over slack or attend office hours (the final 30 minutes of each day, over zoom or in person)
@@ -70,13 +70,29 @@ The folder for the recordings will be posted over Slack or sent over email. We w
 - Basics: Data Visualization
 - Basics: Data Structures
 
-## Day 2: 
+## Day 2: Pandas
+- Key advantages to using pandas
+- Pandas series and dataframes
+- Data wrangling: cleaning and slicing dataframes
+- Data processing: groupyby and applying functions to dataframes
 
-## Day 3:
+## Day 3: Advanced Numpy
+- Indexing: slicing, specifying elements, boolean indexing
+- Masked arrays
+- Linear algebra
 
-## Day 4:
+## Day 4: Xarray and gridded data
+- Intoduction to xarray
+- Indexing and selecting data
+- Computation
+- Some advance cases using Dask
 
-## Day 5: 
+## Day 5: Data Visualization
+- Making exploratory plots
+- Seaborn
+- Plotly Express
+- Xarray
+- Geoviews
 
 ## Day 6: RCC
 - What is a computing cluster?
