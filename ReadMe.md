@@ -21,7 +21,7 @@ Each day we will pull the most recent version of the daily jupyter notebook from
 ### First day
 1) open terminal or other application for the bash/zsh command line 
 2) `cd` into the directory you want your bootcamp materials to live in
-3) `git clone https://github.com/NRT-DSEER/computing-for-research-2022.git`
+3) `git clone https://github.com/NRT-DSEER/computing-for-research-2022`
 4) `cd computing-for-research-2022`
 5) `cd notebooks`
 6) `jupyter notebook`
