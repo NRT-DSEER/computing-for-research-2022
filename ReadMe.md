@@ -51,7 +51,7 @@ Contact over slack or attend office hours (the final 30 minutes of each day, ove
 - Kabir Dubey, he/him, BS in Math & Minor in Computer Science, Department of Mathematics & Department of Computer Science
 
 ### Class Time:
-- Aug 29-Sept 9
+- Aug 29-Sept 7
 - 09:30am-12:30pm CT 
 - We will not have class on Labor Day 9/5.
 
