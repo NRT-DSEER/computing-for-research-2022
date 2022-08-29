@@ -10,7 +10,7 @@ This repo houses data and notebooks for the 2022 DSEER "Computing for Research" 
             _Version control with git:_ http://swcarpentry.github.io/git-novice/
 2) Make sure you have a text editor installed. BBEdit is a good one for Mac [here](https://www.barebones.com/products/bbedit/), Visual Studio Code is great for Mac or Windows, or you can google 'best text editors' and choose one yourself.
 3) Make a github account [here](http://github.com)
-4) If you use Windows, get yourself a console emulator like cmder or conemu. Alternatively, you can do this all on RCC login nodes if you prefer. Another alternative is installing a windows subsystem for linux, which may sound like overkill now but is really beneficial in the long run.
+4) If you use Windows, get yourself a console emulator like cmder or conemu. Another alternative is installing a windows subsystem for linux, which may sound like overkill now but is really beneficial in the long run.
 
 Please ping the slack if you have any issues! We will have some time to spend on the first day troubleshooting, but if you can get a jump on solving the problem that's preferred.
 
